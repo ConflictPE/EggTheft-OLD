@@ -1,0 +1,6 @@
+name: EggTheft
+description: Conflict's egg theft plugin
+authors: ["Jack Noordhuis"]
+version: 0.0.1_DEV
+main: conflict\eggtheft\EggTheft
+api: ["2.0.0"]

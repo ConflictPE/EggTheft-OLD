@@ -1,0 +1,51 @@
+[
+  {
+    "name": "test arena",
+    "author": "Hypixel Network, revamped by Jack Noordhuis",
+    "type": "TO4",
+    "teams": {
+      "green": {
+        "shop": "x, y, z",
+        "upgrades": "x, y, z",
+        "spawn": "x, y ,z",
+        "egg": "x, y, z"
+      },
+      "yellow": {
+        "shop": "x, y, z",
+        "upgrades": "x, y, z",
+        "spawn": "x, y ,z",
+        "egg": "x, y, z"
+      },
+      "red": {
+        "shop": "x, y, z",
+        "upgrades": "x, y, z",
+        "spawn": "x, y ,z",
+        "egg": "x, y, z"
+      },
+      "blue": {
+        "shop": "x, y, z",
+        "upgrades": "x, y, z",
+        "spawn": "x, y ,z",
+        "egg": "x, y, z"
+      }
+    },
+    "generators": {
+      "teams": {
+        "green": "x, y, z",
+        "yellow": "x, y, z",
+        "red": "x, y, z",
+        "blue": "x, y, z",
+      },
+      "diamond": [
+        "x, y, z",
+        "x, y, z",
+        "x, y, z",
+        "x, y, z"
+      ],
+      "emerald": [
+        "x, y, z",
+        "x, y, z"
+      ]
+    }
+  }
+]
